@@ -1,0 +1,25 @@
+{
+  "name": "aws-multipart",
+  "version": "1.0.0",
+  "description": "A simple JS API for initiating AWS multipart uploads with the REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/yaymukund/aws-multipart"
+  },
+  "keywords": [
+    "aws",
+    "multipart",
+    "s3",
+    "rest"
+  ],
+  "author": "Mukund Lakshman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaymukund/aws-multipart/issues"
+  },
+  "homepage": "https://github.com/yaymukund/aws-multipart"
+}
