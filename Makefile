@@ -14,3 +14,4 @@ lint:
 
 setup:
 	npm install
+	bower install

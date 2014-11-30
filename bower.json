@@ -1,0 +1,23 @@
+{
+  "name": "aws-multipart",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yaymukund/aws-multipart",
+  "authors": [
+    "Mukund Lakshman <yaymukund@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "aws",
+    "multipart"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery-ajax-wrap": "yaymukund/jquery-ajax-wrap#1.0.0"
+  }
+}

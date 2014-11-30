@@ -25,6 +25,8 @@
   "devDependencies": {
     "broccoli": "^0.13.2",
     "broccoli-es6-module-transpiler": "^0.4.0",
+    "broccoli-merge-trees": "^0.2.1",
+    "broccoli-static-compiler": "^0.2.1",
     "es6-module-transpiler-amd-formatter": "^0.2.4",
     "jshint": "^2.5.10"
   }
